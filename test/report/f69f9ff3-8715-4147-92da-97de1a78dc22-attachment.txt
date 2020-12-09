@@ -1,0 +1,10 @@
+*******正在执行用例：-----  2.0  ----**********
+请求方式：GET, 请求url:http://192.168.3.184:9500/outbound/pickingCategory/matchSection/1321647445953904642
+请求params：
+请求headers: {'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxMzE4NzI4OTIwOTAzNzc4MzA2IiwiaWF0IjoxNjA1NTc3MzIxLCJleHAiOjE2MDYxODIxMjF9.3trN4jdoV8d0dP8iCCCBVg-Rql24DLjCO0EZSOLpr9efOaW-IGvu3hCKTBjA5v2c5MS3qHTJo45jn4Wr9yPNMA'}
+页面返回信息：{"code":10002,"msg":null,"data":null}
+用例测试结果:   2.0---->fail
+
+
+200
+10003
