@@ -8,7 +8,7 @@ import allure
 import allure_commons
 from common import request
 from duqu.readexcel import ExcelUtil
-testdata2= ExcelUtil(excelPath='test.xlsx', sheetName="Sheet1").dict_data()
+testdata2= ExcelUtil(excelPath='/Users/liusizhe/PycharmProjects/接口自动化项目/duqu/test.xlsx', sheetName="Sheet1").dict_data()
 
 @allure.story("登录用例")
 @pytest.mark.parametrize('url',testdata2)
